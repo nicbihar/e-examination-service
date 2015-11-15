@@ -1,0 +1,1 @@
+E- Examination Service is a complete web based platform independent solution to conduct online examinations. Organization can also use this project to conduct Aptitude Tests for interviewing their candidates.
